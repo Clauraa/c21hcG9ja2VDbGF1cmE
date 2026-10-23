@@ -12,104 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Claura =====
-[1]Claura      |07:08:44 | 22-10-2026| login OK @clauraa_e | score=1600 rank=4505
-[1]Claura      |07:08:44 | 22-10-2026| serverTime=2026-10-22T07:08:44.000Z local=2026-10-22T07:08:44.128Z
+[1]Claura      |07:00:28 | 23-10-2026| login OK @clauraa_e | score=1720 rank=4278
+[1]Claura      |07:00:28 | 23-10-2026| serverTime=2026-10-23T07:00:28.000Z local=2026-10-23T07:00:28.353Z
 --> [1]Claura menjalankan: Claim Daily
-[1]Claura      |07:08:45 | 22-10-2026| daily: OK +10 poin score=1610
---> [1]Claura menjalankan: Auto All Tasks (11 pending)
-[1]Claura      |07:08:46 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165119699697526
-[1]Claura      |07:08:46 | 22-10-2026| delay 10s...
-[1]Claura      |07:08:58 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165155559093050
-[1]Claura      |07:08:58 | 22-10-2026| delay 10s...
-[1]Claura      |07:09:09 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165133220525558
-[1]Claura      |07:09:09 | 22-10-2026| delay 10s...
-[1]Claura      |07:09:21 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165463070955240
-[1]Claura      |07:09:21 | 22-10-2026| delay 10s...
-[1]Claura      |07:09:32 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165494556095249
-[1]Claura      |07:09:32 | 22-10-2026| delay 10s...
-[1]Claura      |07:09:44 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165559876216637
-[1]Claura      |07:09:44 | 22-10-2026| delay 10s...
-[1]Claura      |07:09:56 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165462326776176
-[1]Claura      |07:09:56 | 22-10-2026| delay 10s...
-[1]Claura      |07:10:07 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165406095460047
-[1]Claura      |07:10:07 | 22-10-2026| delay 10s...
-[1]Claura      |07:10:19 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165450653445870
-[1]Claura      |07:10:19 | 22-10-2026| delay 10s...
-[1]Claura      |07:10:32 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/clauraa_e/status/2113165496670417791
-[1]Claura      |07:10:32 | 22-10-2026| delay 10s...
-[1]Claura      |07:10:43 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
-[1]Claura      |07:10:43 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Claura      |07:10:45 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/clauraa_e/status/2113165555402841529
+[1]Claura      |07:00:29 | 23-10-2026| daily: OK +10 poin score=1730
+--> [1]Claura menjalankan: Auto All Tasks (9 pending)
+[1]Claura      |07:00:31 | 23-10-2026| [1/9] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525591304518764
+[1]Claura      |07:00:31 | 23-10-2026| delay 10s...
+[1]Claura      |07:00:43 | 23-10-2026| [2/9] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525402123059542
+[1]Claura      |07:00:43 | 23-10-2026| delay 10s...
+[1]Claura      |07:00:55 | 23-10-2026| [3/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525512514738309
+[1]Claura      |07:00:55 | 23-10-2026| delay 10s...
+[1]Claura      |07:01:07 | 23-10-2026| [4/9] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Claura      |07:01:07 | 23-10-2026| delay 10s...
+[1]Claura      |07:01:19 | 23-10-2026| [5/9] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525647451102141
+[1]Claura      |07:01:19 | 23-10-2026| delay 10s...
+[1]Claura      |07:01:31 | 23-10-2026| [6/9] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525655370206723
+[1]Claura      |07:01:31 | 23-10-2026| delay 10s...
+[1]Claura      |07:01:43 | 23-10-2026| [7/9] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525700979931637
+[1]Claura      |07:01:43 | 23-10-2026| delay 10s...
+[1]Claura      |07:01:55 | 23-10-2026| [8/9] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113525923772448761
+[1]Claura      |07:01:55 | 23-10-2026| delay 10s...
+[1]Claura      |07:02:07 | 23-10-2026| [9/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/clauraa_e/status/2113526037938826403
+[1]Claura      |07:02:07 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Claura      |07:02:09 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/clauraa_e/status/2113525999169426396
 --> [1]Claura menjalankan: Watch Anime
-[1]Claura      |07:10:46 | 22-10-2026| watch: 2 video belum completed: oshi-rainbow-star,bakeru-ikesou-jan-mv
-[1]Claura      |07:10:46 | 22-10-2026| watch [1/2] farming oshi-rainbow-star...
-[1]Claura      |07:10:47 | 22-10-2026| watch oshi-rainbow-star: mulai dari 0 (record 65.1s diabaikan)
-[1]Claura      |07:10:49 | 22-10-2026| watch oshi-rainbow-star: 75% (65.10/86.00s)
-[1]Claura      |07:10:55 | 22-10-2026| watch oshi-rainbow-star: 75% (65.10/86.00s)
-[1]Claura      |07:11:01 | 22-10-2026| watch oshi-rainbow-star: 81% (70.34/86.00s)
-[1]Claura      |07:11:06 | 22-10-2026| watch oshi-rainbow-star: 87% (75.65/86.00s)
-[1]Claura      |07:11:12 | 22-10-2026| watch oshi-rainbow-star: 94% (80.99/86.00s)
-[1]Claura      |07:11:12 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (80.99/86.00s)
-[1]Claura      |07:11:17 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Claura      |07:11:18 | 22-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 56.5s diabaikan)
-[1]Claura      |07:11:19 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:31 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:37 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:11:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:12:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:12:07 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:12:13 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:12:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.46/181.00s)
-[1]Claura      |07:12:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 33% (59.79/181.00s)
-[1]Claura      |07:12:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.64/181.00s)
-[1]Claura      |07:12:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.29/181.00s)
-[1]Claura      |07:12:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.95/181.00s)
-[1]Claura      |07:12:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.34/181.00s)
-[1]Claura      |07:12:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.77/181.00s)
-[1]Claura      |07:13:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.47/181.00s)
-[1]Claura      |07:13:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 54% (98.91/181.00s)
-[1]Claura      |07:13:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.30/181.00s)
-[1]Claura      |07:13:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.76/181.00s)
-[1]Claura      |07:13:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.73/181.00s)
-[1]Claura      |07:13:37 | 22-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.63/181.00s)
-[1]Claura      |07:13:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 70% (128.48/181.00s)
-[1]Claura      |07:13:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.35/181.00s)
-[1]Claura      |07:13:56 | 22-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.27/181.00s)
-[1]Claura      |07:14:02 | 22-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.08/181.00s)
-[1]Claura      |07:14:08 | 22-10-2026| watch bakeru-ikesou-jan-mv: 83% (152.00/181.00s)
-[1]Claura      |07:14:14 | 22-10-2026| watch bakeru-ikesou-jan-mv: 86% (157.44/181.00s)
-[1]Claura      |07:14:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.77/181.00s)
-[1]Claura      |07:14:27 | 22-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.45/181.00s)
-[1]Claura      |07:14:27 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.45/181.00s)
+[1]Claura      |07:02:09 | 23-10-2026| watch: semua video sudah completed
 --> [1]Claura menjalankan: Read Article
-[1]Claura      |07:14:30 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Claura      |07:14:31 | 22-10-2026| mint eligibility: {"userId":"1597309875570495488","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@eclaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Claura      |07:14:39 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Claura      |07:14:47 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Claura      |07:02:11 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Claura      |07:02:12 | 23-10-2026| mint eligibility: {"userId":"1597309875570495488","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@eclaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Claura      |07:02:18 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Claura      |07:02:26 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Claura      |07:02:34 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Claura menjalankan: Quiz Anime
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Claura      |07:14:49 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Claura      |07:02:36 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Claura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Claura      |07:14:51 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Claura      |07:14:51 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Claura      |07:14:51 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Claura      |07:14:51 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Claura      |07:02:38 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Claura      |07:02:39 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |07:02:39 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |07:02:39 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Claim Missions
-[1]Claura      |07:14:52 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Claura      |07:14:52 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Claura      |07:14:52 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Claura      |07:02:39 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |07:02:39 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |07:02:39 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Check Eligibility
 
 --- eligibility [1]Claura ---
-  @clauraa_e | score=1600 rank=4505
-  tasks    [#################---] 73/84
+  @clauraa_e | score=1720 rank=4278
+  tasks    [############--------] 13/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -120,14 +75,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Claura menjalankan: Read Manga
-[1]Claura      |07:14:58 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Claura      |07:02:43 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Claura menjalankan: Get Gift
-[1]Claura      |07:14:58 | 22-10-2026| gift: 0/4 belum diterima
+[1]Claura      |07:02:43 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Claura menjalankan: Setup Profile
-[1]Claura      |07:14:59 | 22-10-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
-[1]Claura      |07:14:59 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Claura      |07:02:44 | 23-10-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
+[1]Claura      |07:02:44 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Claura menjalankan: Bind Wallet
-[1]Claura      |07:14:59 | 22-10-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
+[1]Claura      |07:02:44 | 23-10-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
 
 == RINGKASAN ==
-- Claura: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Claura: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
