@@ -12,57 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Claura =====
-[1]Claura      |11:09:55 | 08-11-2026| login OK @clauraa_e | score=2930 rank=2651
-[1]Claura      |11:09:55 | 08-11-2026| serverTime=2026-11-08T11:09:54.000Z local=2026-11-08T11:09:55.160Z
+[1]Claura      |12:41:47 | 09-11-2026| login OK @clauraa_e | score=2990 rank=2613
+[1]Claura      |12:41:47 | 09-11-2026| serverTime=2026-11-09T12:41:47.000Z local=2026-11-09T12:41:47.328Z
 --> [1]Claura menjalankan: Claim Daily
-[1]Claura      |11:09:57 | 08-11-2026| daily: OK +10 poin score=2940
---> [1]Claura menjalankan: Auto All Tasks (5 pending)
-[1]Claura      |11:10:00 | 08-11-2026| [1/5] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/clauraa_e/status/2119386513231353698
-[1]Claura      |11:10:00 | 08-11-2026| delay 10s...
-[1]Claura      |11:10:12 | 08-11-2026| [2/5] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/clauraa_e/status/2119386522929416361
-[1]Claura      |11:10:12 | 08-11-2026| delay 10s...
-[1]Claura      |11:10:25 | 08-11-2026| [3/5] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/clauraa_e/status/2119386511001269652
-[1]Claura      |11:10:25 | 08-11-2026| delay 10s...
-[1]Claura      |11:10:39 | 08-11-2026| [4/5] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/clauraa_e/status/2119386532840926225
-[1]Claura      |11:10:39 | 08-11-2026| delay 10s...
-[1]Claura      |11:10:51 | 08-11-2026| [5/5] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211935783815390 | proof=https://x.com/clauraa_e/status/2119386713414471660
-[1]Claura      |11:10:51 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Claura      |11:10:55 | 08-11-2026| [1/1] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"8ff23e97-12ac-4372-9e7c-dd5118614f4b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119357838153904 | proof=https://x.com/clauraa_e/status/2119386668308345033
+[1]Claura      |12:41:48 | 09-11-2026| daily: OK +10 poin score=3000
+--> [1]Claura menjalankan: Auto All Tasks (2 pending)
+[1]Claura      |12:41:50 | 09-11-2026| [1/2] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/clauraa_e/status/2119771826182652233
+[1]Claura      |12:41:50 | 09-11-2026| delay 10s...
+[1]Claura      |12:42:03 | 09-11-2026| [2/2] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/clauraa_e/status/2119772149462193546
+[1]Claura      |12:42:03 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Claura      |12:42:04 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/clauraa_e/status/2119772138273385989
 --> [1]Claura menjalankan: Watch Anime
-[1]Claura      |11:10:58 | 08-11-2026| watch ERROR: watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Claura      |12:42:05 | 09-11-2026| watch: semua video sudah completed
 --> [1]Claura menjalankan: Read Article
-[1]Claura      |11:10:59 | 08-11-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Claura      |12:42:06 | 09-11-2026| news: 34/34 artikel selesai dibaca
+[1]Claura      |12:42:07 | 09-11-2026| mint eligibility: {"userId":"1597309875570495488","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@eclaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Claura      |12:42:07 | 09-11-2026| news: semua artikel sudah dibaca
 --> [1]Claura menjalankan: Quiz Anime
 --> [1]Claura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Claura      |11:11:04 | 08-11-2026| music: kedua misi sudah tercapai, stop
-[1]Claura      |11:11:06 | 08-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Claura      |12:42:09 | 09-11-2026| music: kedua misi sudah tercapai, stop
+[1]Claura      |12:42:09 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |12:42:09 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |12:42:09 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Claim Missions
-[1]Claura      |11:11:08 | 08-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Claura      |12:42:10 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |12:42:10 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |12:42:10 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Check Eligibility
 
 --- eligibility [1]Claura ---
-  @clauraa_e | score=2930 rank=2651
-  tasks    [######--------------] 2/7
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @clauraa_e | score=2990 rank=2613
+  tasks    [##########----------] 2/4
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel  [####################] 34/34
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Claura menjalankan: Read Manga
-[1]Claura      |11:11:17 | 08-11-2026| manga: 0/13 chapter belum completed
+[1]Claura      |12:42:13 | 09-11-2026| manga: 0/13 chapter belum completed
 --> [1]Claura menjalankan: Get Gift
-[1]Claura      |11:11:21 | 08-11-2026| gift: 4/10 belum diterima
-[1]Claura      |11:11:22 | 08-11-2026| gift oshii-cheer-gifs-20261108: GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Claura      |11:11:25 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Claura      |11:11:29 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Claura      |11:11:32 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:42:15 | 09-11-2026| gift: 4/10 belum diterima
+[1]Claura      |12:42:17 | 09-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
+[1]Claura      |12:42:20 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:42:22 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:42:25 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Claura menjalankan: Setup Profile
-[1]Claura      |11:11:35 | 08-11-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
-[1]Claura      |11:11:35 | 08-11-2026| profile: bonus sudah diklaim, skip
+[1]Claura      |12:42:27 | 09-11-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
+[1]Claura      |12:42:27 | 09-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Claura menjalankan: Bind Wallet
-[1]Claura      |11:11:36 | 08-11-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
+[1]Claura      |12:42:28 | 09-11-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
 
 == RINGKASAN ==
-- Claura: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound
+- Claura: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
