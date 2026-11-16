@@ -12,37 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Claura =====
-[1]Claura      |11:50:24 | 15-11-2026| login OK @clauraa_e | score=3190 rank=2412
-[1]Claura      |11:50:24 | 15-11-2026| serverTime=2026-11-15T11:50:24.000Z local=2026-11-15T11:50:24.205Z
+[1]Claura      |12:32:49 | 16-11-2026| login OK @clauraa_e | score=3220 rank=2395
+[1]Claura      |12:32:49 | 16-11-2026| serverTime=2026-11-16T12:32:48.000Z local=2026-11-16T12:32:49.127Z
 --> [1]Claura menjalankan: Claim Daily
-[1]Claura      |11:50:26 | 15-11-2026| daily: OK +10 poin score=3200
+[1]Claura      |12:32:51 | 16-11-2026| daily: OK +10 poin score=3230
 --> [1]Claura menjalankan: Auto All Tasks (2 pending)
-[1]Claura      |11:50:27 | 15-11-2026| [1/2] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/clauraa_e/status/2121933320348766993
-[1]Claura      |11:50:27 | 15-11-2026| delay 10s...
-[1]Claura      |11:50:39 | 15-11-2026| [2/2] 64b7bdf9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/clauraa_e/status/2121933487655871905
-[1]Claura      |11:50:39 | 15-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Claura      |11:50:41 | 15-11-2026| [1/1] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121595967950791 | proof=https://x.com/clauraa_e/status/2121933567472646766
+[1]Claura      |12:32:53 | 16-11-2026| [1/2] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/clauraa_e/status/2122306627979679209
+[1]Claura      |12:32:53 | 16-11-2026| delay 10s...
+[1]Claura      |12:33:06 | 16-11-2026| [2/2] df76b569 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/clauraa_e/status/2122306687747791068
+[1]Claura      |12:33:06 | 16-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Claura      |12:33:07 | 16-11-2026| [1/1] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121954823860076 | proof=https://x.com/clauraa_e/status/2122306664539680148
 --> [1]Claura menjalankan: Watch Anime
-[1]Claura      |11:50:42 | 15-11-2026| watch: semua video sudah completed
+[1]Claura      |12:33:08 | 16-11-2026| watch: semua video sudah completed
 --> [1]Claura menjalankan: Read Article
-[1]Claura      |11:50:42 | 15-11-2026| news: 34/34 artikel selesai dibaca
-[1]Claura      |11:50:43 | 15-11-2026| mint eligibility: {"userId":"1597309875570495488","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@eclaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Claura      |11:50:43 | 15-11-2026| news: semua artikel sudah dibaca
+[1]Claura      |12:33:09 | 16-11-2026| news: 34/34 artikel selesai dibaca
+[1]Claura      |12:33:10 | 16-11-2026| mint eligibility: {"userId":"1597309875570495488","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@eclaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Claura      |12:33:10 | 16-11-2026| news: semua artikel sudah dibaca
 --> [1]Claura menjalankan: Quiz Anime
 --> [1]Claura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Claura      |11:50:45 | 15-11-2026| music: kedua misi sudah tercapai, stop
-[1]Claura      |11:50:46 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Claura      |11:50:46 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Claura      |11:50:46 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Claura      |12:33:13 | 16-11-2026| music: kedua misi sudah tercapai, stop
+[1]Claura      |12:33:14 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |12:33:14 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |12:33:14 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Claim Missions
-[1]Claura      |11:50:46 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Claura      |11:50:46 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Claura      |11:50:46 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Claura      |12:33:14 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Claura      |12:33:14 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Claura      |12:33:14 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Claura menjalankan: Check Eligibility
 
 --- eligibility [1]Claura ---
-  @clauraa_e | score=3190 rank=2412
-  tasks    [############--------] 3/5
+  @clauraa_e | score=3220 rank=2395
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Claura menjalankan: Read Manga
-[1]Claura      |11:50:50 | 15-11-2026| manga: 0/13 chapter belum completed
+[1]Claura      |12:33:19 | 16-11-2026| manga: 0/13 chapter belum completed
 --> [1]Claura menjalankan: Get Gift
-[1]Claura      |11:50:52 | 15-11-2026| gift: 3/12 belum diterima
-[1]Claura      |11:50:54 | 15-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Claura      |11:50:57 | 15-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Claura      |11:50:59 | 15-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:33:21 | 16-11-2026| gift: 3/12 belum diterima
+[1]Claura      |12:33:22 | 16-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:33:25 | 16-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Claura      |12:33:28 | 16-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Claura menjalankan: Setup Profile
-[1]Claura      |11:51:02 | 15-11-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
-[1]Claura      |11:51:02 | 15-11-2026| profile: bonus sudah diklaim, skip
+[1]Claura      |12:33:30 | 16-11-2026| profile: bio="Nothing" fav=- rewardAt=1791416332
+[1]Claura      |12:33:30 | 16-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Claura menjalankan: Bind Wallet
-[1]Claura      |11:51:02 | 15-11-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
+[1]Claura      |12:33:31 | 16-11-2026| wallet: sudah terikat 9CwjcwvJLa... (solana)
 
 == RINGKASAN ==
 - Claura: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
